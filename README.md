@@ -1,3 +1,2 @@
-# peco
-moring's glasses
-mosing
+# 上海交通大学 CS3316 强化学习
+个人lab提交记录
